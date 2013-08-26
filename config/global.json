@@ -1,0 +1,8 @@
+{
+    "applicationName" : "TutorialAVOS",
+    "applicationId": "wp7q6z0285kn5eqxxwonrswy06dbasmy84miz7mfdweyq23z",
+    "applicationKey": "dp5y50l1eklzm761hk22yt3cb244m3auhlygl8lk9nylfziz",
+    "global": {
+        "avVersion": "0.2.0"
+    }
+}
