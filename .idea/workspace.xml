@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8936b69-ad55-4bd2-b0fa-75816fe05044" name="Default" comment="" />
+    <list default="true" id="d8936b69-ad55-4bd2-b0fa-75816fe05044" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cloud/main.js.bak" afterPath="$PROJECT_DIR$/cloud/main.js.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cloud/main.js" afterPath="$PROJECT_DIR$/cloud/main.js" />
+    </list>
     <ignored path="CloudCode.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d8936b69-ad55-4bd2-b0fa-75816fe05044" time="1377494284313" ignored="false" />
+    <file path="/Dummy.txt" changelist="d8936b69-ad55-4bd2-b0fa-75816fe05044" time="1377498026550" ignored="false" />
+    <file path="/main.js" changelist="d8936b69-ad55-4bd2-b0fa-75816fe05044" time="1377498154824" ignored="false" />
+    <file path="$PROJECT_DIR$/../GA_Server/GAServer/routes/index.js" changelist="d8936b69-ad55-4bd2-b0fa-75816fe05044" time="1377498193061" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +32,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cloud/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="37" selection-start="177" selection-end="177" vertical-scroll-proportion="0.1443038">
+            <state line="43" column="6" selection-start="1455" selection-end="1455" vertical-scroll-proportion="-0.10632911">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -89,7 +94,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -124,14 +128,15 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig" serverName="CloudCode on AVOS" serverId="e78e843f-a9cc-4346-8edf-4e5b2825df46">
     <servers>
@@ -258,6 +263,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cloud/main.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="37" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud/main.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="37" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -267,7 +281,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="37" selection-start="177" selection-end="177" vertical-scroll-proportion="0.1443038">
+        <state line="43" column="6" selection-start="1455" selection-end="1455" vertical-scroll-proportion="-0.10632911">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
