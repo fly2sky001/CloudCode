@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8936b69-ad55-4bd2-b0fa-75816fe05044" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cloud/main.js.bak" afterPath="$PROJECT_DIR$/cloud/main.js.bak" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cloud/main.js" afterPath="$PROJECT_DIR$/cloud/main.js" />
     </list>
     <ignored path="CloudCode.iws" />
@@ -32,7 +31,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cloud/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="6" selection-start="1455" selection-end="1455" vertical-scroll-proportion="-0.10632911">
+            <state line="8" column="12" selection-start="228" selection-end="228" vertical-scroll-proportion="0.38481012">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -281,7 +280,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="6" selection-start="1455" selection-end="1455" vertical-scroll-proportion="-0.10632911">
+        <state line="8" column="12" selection-start="228" selection-end="228" vertical-scroll-proportion="0.38481012">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

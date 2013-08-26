@@ -46,15 +46,15 @@ AV.Cloud.beforeSave("CodeGeneration", function(request, response) {
         pc.save(null, {
             success: function(pc) {
                 // Execute any logic that should take place after the object is saved.
-                logMessage = 'Last object created with objectId: ' + pc.id+ 'with total count:'+i;
+                console.log ( 'Last object created with objectId: ' + pc.id+ 'with total count:'+i);
             },
             error: function(pc, error) {
                 // Execute any logic that should take place if the save fails.
                 // error is a AV.Error with an error code and description.
-                response.error('Failed to create new object, with error code: '
-                    + util.inspect(error)+"\n"+ util.inspect(pc))+"\n @"+i;
+                console.log('Failed to create new object, with error code: '
+                    + util.inspect(error)+"\n"+ util.inspect(pc)+"\n @"+i);
             }
         });
     }
-    response.success(logMessage);
+    response.success();
 });
